@@ -18,4 +18,10 @@ This layer defines the core logic of the app. It contains the fundamental busine
 todo.dart 
 todo_repo.dart
 
+## Presentation Layer (bottom-layer): 
+The Presentation layer consists of the user interface and state management of the app. This is where you implement UI components and manage state using CUBIT or BLoC.
 
+### Files:
+todo_page.dart 
+todo_cubit.dart
+todo_view.dart
