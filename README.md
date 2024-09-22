@@ -11,3 +11,9 @@ This layer is responsible for connecting our domain layout to a database or an A
 db_todo.dart 
 db_todo_repo.dart
 
+## DOMAIN Layer (top layer): 
+This layer defines the core logic of the app. It contains the fundamental business rules and is independent of any specific framework or database. This means you can implement it in Flutter, React Native, or any other technology while keeping the core logic intact.
+
+### Files:
+todo.dart 
+todo_repo.dart
