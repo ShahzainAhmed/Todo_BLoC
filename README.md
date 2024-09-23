@@ -1,4 +1,4 @@
-# Todo App on BLoC
+# Todo App 
 
 <p align="center" width="5%">
     <img width="60%" src="https://github.com/user-attachments/assets/18601630-977e-47b0-a444-8a294ba715ad">
